@@ -1,4 +1,4 @@
 hellogit
 ========
 
-HelloGit
+HelloGit is awesome
